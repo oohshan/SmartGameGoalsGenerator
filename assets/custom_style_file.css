@@ -1,0 +1,32 @@
+*{
+    font-family: 'IBM Plex Mono', monospace;
+  font-weight: lighter;
+}
+
+h6 { font-size: 1.55rem; line-height: 1.6;  letter-spacing: 0; margin-bottom: 0.4rem; margin-top: 0.4rem;}
+
+.modebar{
+      display: none !important;
+}
+
+.rc-slider-track {
+  background-color: black;
+}
+
+.rc-slider-dot-active {
+  border-color: black;
+  border: solid 1px black;
+}
+
+.rc-slider-handle {
+  background-color: black;
+  border-color: black;
+}
+
+.rc.slider-handle:hover {
+  border-color: black;
+}
+
+.rc.slider-handle-active:active {
+  border-color: black;
+}
